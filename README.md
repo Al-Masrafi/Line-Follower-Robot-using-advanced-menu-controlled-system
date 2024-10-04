@@ -133,8 +133,9 @@ OLED display, arrduino MEGA,TB66F16G
 <hr>
 
 <p style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/ff276992-ced4-4110-a034-e6a0c70d3fca" width="1000" />
+  <img src="https://github.com/user-attachments/assets/bcb831f2-fe70-43ac-bdd2-3ba49456b980" width="1000" />
 </p>
+
 
 
 
