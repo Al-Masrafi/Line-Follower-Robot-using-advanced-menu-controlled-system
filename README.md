@@ -1,13 +1,14 @@
 # Line-Follower-Robot-using-advanced-menu-controlled-system
 OLED display, arrduino MEGA,TB66F16G
 
+![PXL_20240824_104619533 PORTRAIT~3]()
 
 
 <h1 style="text-align: center; color: #2e6da4;">Arduino Line Following Robot with OLED Menu System</h1>
 
 <p style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/53dcb946-d29d-4ecb-8b63-d330b5c186a7" alt="Line Following Robot" width="300" />
-    <img src="https://github.com/user-attachments/assets/8a8ec955-aea0-4b3e-8732-1369ad2b757a" width="280" />
+  <img src="https://github.com/user-attachments/assets/68cdde05-c410-4105-81c4-16e43a822800" alt="Line Following Robot" width="300" />
+    <img src="https://github.com/user-attachments/assets/84d72e9b-948f-4685-b494-f2476a3a65eb" width="280" />
 </p>
 
 
