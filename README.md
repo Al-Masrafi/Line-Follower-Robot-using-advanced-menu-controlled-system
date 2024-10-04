@@ -56,10 +56,11 @@ OLED display, arrduino MEGA,TB66F16G
 </ul>
 
 
+
 <p>Main menu options include:</p>
 <ul>
-      <img src="https://github.com/user-attachments/assets/6370b107-4d1a-4115-95b5-35bef3f11053" width="280" />
-   <img src="https://github.com/user-attachments/assets/1aacf89d-4810-44d6-8749-df6f7e6b212d" width="295" />
+      <img src="https://github.com/user-attachments/assets/42a148ef-1a1b-4ac7-a42e-97f5a56cd151" width="280" />
+   <img src="https://github.com/user-attachments/assets/c37d32a3-3aaf-457f-92fb-682df0e995ae" width="295" />
   <li>⚙️ <strong>Calibration:</strong> Starts the line sensor calibration process.</li>
   <li>🔍 <strong>Sensor Test:</strong> Checks the line sensors and displays results on the OLED screen.</li>
   <li>➡️ <strong>Follow Line:</strong> Enables the line-following mode.</li>
@@ -69,10 +70,11 @@ OLED display, arrduino MEGA,TB66F16G
 <hr>
 
 
+
 <h2 style="color: #2e6da4;">🛠️ Motor Control Submenu</h2>
 <p>In the motor control submenu, you can:</p>
 <ul>
-        <img src="https://github.com/user-attachments/assets/2673af4a-d606-47c6-aaaa-decc98de179f" width="280" />
+        <img src="https://github.com/user-attachments/assets/91b6fd78-7106-4f42-ac4e-42a81b82bec6" width="280" />
   <li>🟢 <strong>Toggle Motor:</strong> Turn the motor on or off.</li>
   <li>⚡ <strong>Adjust LFSPEED:</strong> Fine-tune the line-following speed.</li>
   <li>🔥 <strong>Adjust MAXSPEED:</strong> Set the maximum speed for the motors.</li>
