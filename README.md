@@ -124,7 +124,7 @@ OLED display, arrduino MEGA,TB66F16G
 <hr>
 
 <h2 style="color: #2e6da4;">📧 Contact</h2>
-<p>If you have any questions, suggestions, or would like to get the full project code, feel free to reach out to me via email at <a href="mailto:almasrafeshahria1234@gmail.com" style="color: #2e6da4;">your-email@example.com</a>.</p>
+<p>If you have any questions, suggestions, or would like to get the full project code, feel free to reach out to me via email at <a href="mailto:almasrafeshahria1234@gmail.com" style="color: #2e6da4;">gmail</a>.</p>
 
 <hr>
 <hr>
