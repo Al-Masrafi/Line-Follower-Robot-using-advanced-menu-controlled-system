@@ -1,0 +1,16 @@
+#import serial
+
+#ser = serial.Serial('COM5', 115200, timeout=1)
+#while True:
+   # line = ser.readline().decode('utf-8').strip()
+   # if line:
+   #     print(line)
+ku = 2
+tu = 0.3325
+Kp = ku * 0.6
+Ki = 0.5 * tu
+Kd = 0.125 * tu
+
+print(Kp)
+print(Kd)
+print(Ki)
